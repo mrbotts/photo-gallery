@@ -1,0 +1,23 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.square{
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border: 12px ridge blue;
+  margin: 12px;
+  padding: 4px;
+
+}
+body{
+background-color: deepskyblue;
+}
+h1{
+  font-family: fantasy;
+  text-align: center;
+  background-color:firebrick;
+
+}
